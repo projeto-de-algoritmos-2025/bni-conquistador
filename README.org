@@ -1,0 +1,37 @@
+#+TITLE: bni conquistador
+#+AUTHOR: Bruno Ribeiro e Igor Penha
+
+*Número da Lista:* =4= \\
+*Conteúdo da Disciplina:* =Divide and Conquer=
+
+** Alunos
+
+| Matrícula  | Aluno                |
+|------------+----------------------|
+| 21/1039288 | Bruno Campos Ribeiro |
+| 21/1029352 | Igor e Silva Penha   |
+|------------+----------------------|
+
+** Sobre
+
+O objetivo do trabalho é exercitar a teoria aprendida em sala na
+prática. Com isso, a partir do juiz Online [[https://leetcode.com][LeetCode]] foram selecionados
+quatro exercícios de nível hard na plataforma.
+
+** Exercícios Escolhidos
+
+| Exercício                   | Aluno         |
+|-----------------------------+---------------|
+| [[https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envId=divide-and-conquer][Median of Two Sorted Arrays]] | [[https://github.com/BrunoRiibeiro][Bruno Ribeiro]] |
+|-----------------------------+---------------|
+
+#+CAPTION: Accepted for Median of Two Sorted Arrays
+#+NAME: accepted-4
+[[./img/accepted-4.png]]
+
+** Vídeo
+
+Para acessar à explicação dos exercício, basta acessar ao seguinte link
+disponível no YouTube:
+
+[[https://youtu.be/KuvRWlrGHoE][LINK]]
